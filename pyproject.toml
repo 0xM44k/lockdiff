@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lockdiff"
+version = "0.3.0"
+description = "Offline package-lock.json diff for supply-chain tamper signals"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+lockdiff = "lockdiff.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

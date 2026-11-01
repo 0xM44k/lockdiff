@@ -1,0 +1,24 @@
+{
+ "lockfileVersion": 3,
+ "packages": {
+  "": {
+   "name": "demo"
+  },
+  "node_modules/left-pad": {
+   "version": "1.3.0",
+   "resolved": "https://cdn.example.net/left-pad/-/left-pad-1.3.0.tgz",
+   "integrity": "sha512-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=="
+  },
+  "node_modules/chalk": {
+   "version": "5.4.1",
+   "resolved": "https://registry.npmjs.org/chalk/-/chalk-5.4.1.tgz",
+   "integrity": "sha512-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD=="
+  },
+  "node_modules/tiny-helper": {
+   "version": "0.0.1",
+   "resolved": "https://registry.npmjs.org/tiny-helper/-/tiny-helper-0.0.1.tgz",
+   "integrity": "sha512-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE==",
+   "hasInstallScript": true
+  }
+ }
+}
