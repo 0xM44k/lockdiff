@@ -53,4 +53,4 @@ Designed and built by Maak — https://github.com/0xM44k
 
 ![Terminal output captured in this session](docs/evidence-terminal.png)
 
-The image above is a capture of the command shown at the top of the image, run against the files in this repository on 2026-10-28. It is the tool's actual output, rendered in a terminal panel for legibility; no output lines were invented.
+The image above is a capture of the command shown at the top of the image, run against the files in this repository on 2026-11-01. It is the tool's actual output, rendered in a terminal panel for legibility; no output lines were invented.
